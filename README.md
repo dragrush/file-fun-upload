@@ -1,2 +1,2 @@
 # file-fun-upload
-weird or silly :p
+weird :p
